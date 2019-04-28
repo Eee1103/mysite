@@ -1,0 +1,3 @@
+先激活虚拟环境：
+                     ..\Scripts\activate
+然后再：python manage.py runserver 
